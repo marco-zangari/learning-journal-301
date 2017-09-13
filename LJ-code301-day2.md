@@ -1,0 +1,3 @@
+I learned today how to fix some problems in a very janky CSS folder so that websites could be more responsive. That was the pair programming exercise. I messed up some because I did not read through all the documents before I started working. It probably added more time to getting through the work. I should have known better.
+
+I attempted to use jQuery to make my portfolio: render some objects, listen for click-events, and then append the objects to my index.html. It will populate my portfolio more easily than with vanilla javascript. I'm still working on it, and I'm going to check the code demo more carefully. But it is going to have to be in the morning.
