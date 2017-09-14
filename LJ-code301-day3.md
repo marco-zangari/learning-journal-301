@@ -1,0 +1,3 @@
+What I learned today was that a few weeks to learn js, css, and html only means that everything I know about programming is really shaky. There is no well of knowledge to fall back on to do something, 'like so', and it will all be good. Therefore, when I start a problem I am unfortunately not able to implement any patterns yet. I can see the patterns, which is awesome. That is really awesome. But I am still not sure what I should do to make the patterns into functioning code.
+
+Pair programming today was really great. So many breakdowns in what we were trying to accomplish and yet we did not really break stride. We just kept fixing broken stuff. And then, when the stuff we fixed broke, we fixed that too. It was really fun!
