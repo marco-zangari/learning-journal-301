@@ -1,0 +1,3 @@
+Today I learned that three weeks goes by extremely quickly. I really thought the discussion today about how to go about finding a job was helpful. As someone trying to figure out how to interact as a human with other humans, I constantly feel as if I could write a stronger letter or resume or email message. I really like what Nick said about being obvious. I had thought about being direct about what the message was about. And that is a functional way of getting about communicating. If you add to that being obvious, etymologically being in the way [Lat. ob + via], there's a real opportunity for being understood and not wasting people's time. I guess that's sort of a duh, but yeah.
+
+I also need to sew up some assignments for the course.
