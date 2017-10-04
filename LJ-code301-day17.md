@@ -1,0 +1,3 @@
+Today I learned that perseverance is really hard. I got so code blind going back and forth between docs and our code base to hook up to the API, called TextRazor. With the help of our team, every TA in 301, Nick, and a TA from another section, we were able to break through to having it hook up with our backend.
+
+It was really a case of starting to understand what we did not understand. The communication between the backend and the front is still a wide mystery. Part of me wants to spend the rest of the week simply hooking up as many APIs as possible - and figuring the attendant asynch issues - before Friday but we should start to answer the call of making the application look somewhat presentable.
